@@ -19,13 +19,13 @@ El proposito de este repo es facilitar el material necesario para levantar un se
 ### Levantar el servicio
 
 ```shell
-make up
+make up (en el directorio donde se encuentre Makefile)
 ```
 
 ### Parar el servicio
 
 ```shell
-make down
+make down (en el directorio donde se encuentre Makefile)
 ```
 
 
