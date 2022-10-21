@@ -7,6 +7,7 @@ El proposito de este repo es facilitar el material necesario para levantar un se
 ## Requerimientos
 - docker
 - docker-compose
+- make
 
 ## Uso
 
