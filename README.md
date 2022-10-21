@@ -1,10 +1,10 @@
 # WordpressLocal
 Docker Wordpress Local
 
-## OBJECTIVE
+## Objetivo
 El proposito de este repo es facilitar el material necesario para levantar un se4rvicio de wordpress en local.
 
-## Requirements
+## Requerimientos
 - docker
 - docker-compose
 
