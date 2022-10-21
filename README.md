@@ -8,33 +8,33 @@ El proposito de este repo es facilitar el material necesario para levantar un se
 - docker
 - docker-compose
 
-## Use
+## Uso
 
-### To start the service
+### Levantar el servicio
 
 ```shell
 make up
 ```
 
-### To stop the service
+### Parar el servicio
 
 ```shell
 make down
 ```
 
-### To make a backup (only wp)
+### Hacer un backup de wordpress
 
 ```shell
 make bkwp
 ```
 
-### To make a backup (only ddbb)
+### Hacer un backup de la base de datos
 
 ```shell
 make bkdata
 ```
 
-### To make a backup (all)
+### Hacer un backup de todo
 
 ```shell
 make bkall
