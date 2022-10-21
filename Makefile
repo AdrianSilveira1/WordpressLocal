@@ -1,10 +1,10 @@
 NAME_BK := $(shell date '+%Y-%m-%d-%H-%M-%S')
 
 up:
-	docker-compose -f docker-compose.wp.yaml up -d
+	docker-compose -f stack.yaml up -d
 
 down:
-	docker-compose -f docker-compose.wp.yaml down
+	docker-compose -f stack.yaml down
 
 bkwp:
 	tar -zcvf "wp-${NAME_BK}.tar.gz" wp
