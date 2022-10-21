@@ -11,10 +11,10 @@ El proposito de este repo es facilitar el material necesario para levantar un se
 
 ## Uso
 
-##Utilidades a instalar
-sudo apt install docker
-sudo apt install docker-compose
-sudo apt install make
+## Utilidades a instalar
+- sudo apt install docker
+- sudo apt install docker-compose
+- sudo apt install make
 
 ### Levantar el servicio
 
